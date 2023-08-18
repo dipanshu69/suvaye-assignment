@@ -1,0 +1,31 @@
+/* PlayButton.styles.css */
+
+.play-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 300px;
+}
+
+.play-button-container h3 {
+    font-size: 28px;
+    margin-right: 10px;
+}
+
+.play-button {
+    background: #0d0d0d;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    color: #fff;
+    fill: white;
+    border-radius: 50%;
+}
+
+.play-button svg {
+    vertical-align: middle;
+    margin-right: 5px;
+    color: #fff;
+    transform: scale(1.5);
+}

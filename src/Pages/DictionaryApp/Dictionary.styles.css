@@ -1,0 +1,22 @@
+.heading {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    margin-bottom: 25px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.heading img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.heading h1 {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: black;
+}

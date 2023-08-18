@@ -1,0 +1,14 @@
+.tabs-container {
+    display: flex;
+    margin: 10px;
+}
+
+.tabs-container button {
+    margin: 10px;
+}
+
+.dictionary-container {
+    margin-top: 20px;
+    border: 2px solid #f5f5f5;
+    border-radius: 10px;
+}

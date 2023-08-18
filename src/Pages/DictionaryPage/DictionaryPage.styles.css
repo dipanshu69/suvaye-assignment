@@ -1,0 +1,11 @@
+.dictionaryPage-container {
+    margin: 3%;
+    padding: 20px;
+}
+
+.dictionaryPage-container h4 {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 28px;
+}
